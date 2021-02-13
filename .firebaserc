@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gfm-demo-51124": {
+      "hosting": {
+        "app": [
+          "gfm-demo-51124"
+        ]
+      }
+    }
+  }
+}
